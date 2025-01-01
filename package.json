@@ -1,0 +1,20 @@
+{
+  "name": "craftflow-whatsapp-bot",
+  "version": "1.0.0",
+  "main": "app.mts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.mjs"
+  },
+  "author": "Winston Chikazhe",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.75.0",
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.9.3",
+    "openai": "^4.77.0",
+    "p-queue": "^8.0.1",
+    "puppeteer": "^23.11.1"
+  }
+}
