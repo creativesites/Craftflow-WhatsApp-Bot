@@ -2,7 +2,7 @@ import OpenAI from "openai";
 import { findOrCreateUser, addMessageToHistory, trimChatHistory, countTokens } from './helper.js';
 
 const openai = new OpenAI({
-    apiKey: "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",
+    apiKey: ''
 });
 
 export async function getChatCompletion(messages) {
