@@ -1,20 +1,24 @@
 {
   "name": "craftflow-whatsapp-bot",
   "version": "1.0.0",
-  "main": "app.mts",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.mjs"
+    "start": "node server.js"
   },
   "author": "Winston Chikazhe",
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@dqbd/tiktoken": "^1.0.18",
     "@open-wa/wa-automate": "^4.75.0",
     "dotenv": "^16.4.7",
+    "mongodb": "^6.12.0",
     "mongoose": "^8.9.3",
+    "mysql2": "^3.12.0",
     "openai": "^4.77.0",
     "p-queue": "^8.0.1",
     "puppeteer": "^23.11.1"
-  }
+  },
+  "type": "module"
 }

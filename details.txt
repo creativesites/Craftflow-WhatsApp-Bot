@@ -1,0 +1,7 @@
+mongo user
+craftflowtechnologies
+pwd
+orx7LOaAADwH18sv
+
+connection string
+mongodb+srv://craftflowtechnologies:orx7LOaAADwH18sv@craftflowbot.85uhe.mongodb.net/?retryWrites=true&w=majority&appName=CraftflowBot

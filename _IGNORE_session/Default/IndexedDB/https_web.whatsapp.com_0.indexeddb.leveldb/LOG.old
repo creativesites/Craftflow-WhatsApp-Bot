@@ -1,0 +1,15 @@
+2025/01/02-00:18:57.446 a403 Reusing MANIFEST /Users/winstonzulu/Documents/GitHub/Craftflow-WhatsApp-Bot/_IGNORE_session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/02-00:18:57.447 a403 Recovering log #76
+2025/01/02-00:18:57.450 a403 Reusing old log /Users/winstonzulu/Documents/GitHub/Craftflow-WhatsApp-Bot/_IGNORE_session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000076.log 
+2025/01/02-00:18:58.472 b303 Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/02-06:19:19.552 8603 Level-0 table #82: started
+2025/01/02-06:19:19.610 8603 Level-0 table #82: 1212032 bytes OK
+2025/01/02-06:19:19.616 8603 Delete type=0 #76
+2025/01/02-06:39:31.888 8603 Compacting 1@1 + 2@2 files
+2025/01/02-06:39:31.970 8603 Generated table #83@1: 46025 keys, 2211080 bytes
+2025/01/02-06:39:31.990 8603 Generated table #84@1: 16392 keys, 675569 bytes
+2025/01/02-06:39:31.990 8603 Compacted 1@1 + 2@2 files => 2886649 bytes
+2025/01/02-06:39:31.993 8603 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/01/02-06:39:31.994 8603 Delete type=2 #82
+2025/01/02-06:39:31.994 8603 Delete type=2 #79
+2025/01/02-06:39:31.994 8603 Delete type=2 #78
